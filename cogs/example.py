@@ -33,7 +33,7 @@ def setup(bot):
 # you are done !
 # without any comments your cogs should look like this
 """
-from discord.ext import commands # you see now why we need the commands.Bot and not the client
+from discord.ext import commands
 
 class Example(commands.Cog):
   def __init__(self, bot):
